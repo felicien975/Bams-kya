@@ -1,0 +1,42 @@
+c:\users\alphonse assumani\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+c:\users\alphonse assumani\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+c:\users\alphonse assumani\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+c:\users\alphonse assumani\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+c:\users\alphonse assumani\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+c:\users\alphonse assumani\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+c:\users\alphonse assumani\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+c:\users\alphonse assumani\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+c:\users\alphonse assumani\documents\visual studio 2015\Projects\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\Alphonse Assumani\Desktop\TP labo\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Alphonse Assumani\Desktop\TP labo\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Alphonse Assumani\Desktop\TP labo\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\Alphonse Assumani\Desktop\TP labo\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Alphonse Assumani\Desktop\TP labo\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Alphonse Assumani\Desktop\TP labo\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\Alphonse Assumani\Desktop\TP labo\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\Alphonse Assumani\Desktop\TP labo\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\Alphonse Assumani\Desktop\TP labo\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+C:\Users\Franklish Mt\Desktop\Nouveau dossier\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\Franklish Mt\Desktop\Nouveau dossier\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\Franklish Mt\Desktop\Nouveau dossier\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\Franklish Mt\Desktop\Nouveau dossier\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\Franklish Mt\Desktop\Nouveau dossier\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\Franklish Mt\Desktop\Nouveau dossier\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+C:\Users\Franklish Mt\Desktop\Nouveau dossier\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\Franklish Mt\Desktop\Nouveau dossier\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\Franklish Mt\Desktop\Nouveau dossier\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+D:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+D:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+D:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+D:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+D:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+D:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+D:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+D:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+D:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+C:\Users\RODRIGUE MAG\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\RODRIGUE MAG\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\RODRIGUE MAG\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
